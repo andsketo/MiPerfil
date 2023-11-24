@@ -38,7 +38,7 @@ function btniraContacto () {
 
 
 function btnPrincipal(){
-    alert("Tu información ha sido enviada de manera satisfactoria, hugo tqm");
+    alert("Tu información ha sido enviada de manera satisfactoria");
 
     document.getElementById("Inicio1").style="display:normal";
     document.getElementById("Acercade2").style="display:none";
@@ -51,4 +51,3 @@ document.getElementById("ConciertoGrupales").style="display:normal";
 document.getElementById("Quinteto").style="display:normal";
 
 
-  
